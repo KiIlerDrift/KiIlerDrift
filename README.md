@@ -9,8 +9,11 @@ Over the years, I have honed my skills in Python, taking on more complex project
 **Python**
 I love programming in Python because it is a highly readable and versatile language that allows me to bring my ideas to life quickly and efficiently. The vast array of libraries and modules available make it easy for me to tackle complex projects with ease. Additionally, the Python community is incredibly supportive and constantly developing new tools to make the language even better. Overall, programming in Python is not just a hobby for me, but a passion that I am constantly learning from and enjoying.
 
+
 **Javascript**
 Also, am learning JavaScript because it is a popular and powerful programming language that is used in a wide range of applications, from front-end web development to server-side scripting. JavaScript has a large and vibrant community, which makes it easy to find resources and support for my learning journey. Additionally, the flexibility of JavaScript and its ability to interact with other technologies, such as HTML and CSS, make it an essential tool for modern web development. I am excited to continue exploring the possibilities of JavaScript and see what I can create with this versatile language.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KiIlerDrift&left_color=green&right_color=red)
 
 <!---
 KiIlerDrift/KiIlerDrift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
